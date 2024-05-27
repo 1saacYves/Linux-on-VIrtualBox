@@ -13,6 +13,8 @@
 - Oracle Linux 8 é um sistema operacional gratuito
 - Baixe o arquivo ISO do Oracle Linux 8: https://yum.oracle.com/oracle-linux-isos.html
 
+![iso image](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/98ecbdb2-f6a8-41e8-aca1-857903d100be)
+
 ## Criando uma máquina virtual (VM)(Passo 2):
 **Abra seu Virtual Box para dar inicio a esse passo**
 
