@@ -65,16 +65,22 @@ E **FINALIZAR**
 1. Selecione o Idioma e **CONTINUAR**
 2. Depois será redirecioado para a tela de **RESUMO DE INSTALAÇÃO**, que contém diversas opções de configuração diferentes. Vamos atualizar cada um deles, especialmente as opções com marcas de alerta, antes de iniciar o processo de instalação.
 
-3. Na Seção **SISTEMA** selecione **REDE E NOME DO HOST**, e o ligue depois clique em **PRONTO**
-4. Ainda na seção **SISTEMA**, selecione **DESTINO DA INSTALAÇÃO**, selecione o disco, e na seção **CONFIGURAÇÃO DE ARMAZENAMENTO**, deixe marcada a opção **AUTOMÁTICA**
-5. Na seção **SISTEMA** selecione **KDUMP**, e selecione a opção **ATIVAR KDUMP**, e pronto.
-6. A opção mais importante na seção **PROGRAMA** é a opção **FONTE DE INSTALAÇÃO**, clique nessa opção e selecione a opção **MÍDIA DE INSTALAÇÃO DETECTADA AUTOMATICAMENTE**. Depois disso, clique no botão **VERIFICAR**.
-7. Abra a opção Seleção de programas na seção Programas:
+   ![VirtualBox7](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/8ae92783-2340-4839-863d-9f1ed16511ba)
+
+4. Na Seção **SISTEMA** selecione **REDE E NOME DO HOST**, e o ligue depois clique em **PRONTO**
+5. Ainda na seção **SISTEMA**, selecione **DESTINO DA INSTALAÇÃO**, selecione o disco, e na seção **CONFIGURAÇÃO DE ARMAZENAMENTO**, deixe marcada a opção **AUTOMÁTICA**
+6. Na seção **SISTEMA** selecione **KDUMP**, e selecione a opção **ATIVAR KDUMP**, e pronto.
+7. A opção mais importante na seção **PROGRAMA** é a opção **FONTE DE INSTALAÇÃO**, clique nessa opção e selecione a opção **MÍDIA DE INSTALAÇÃO DETECTADA AUTOMATICAMENTE**. Depois disso, clique no botão **VERIFICAR**.
+8. Abra a opção Seleção de programas na seção Programas:
    Mantenha a opção **SERVIDOR COM GUI**, e selecione a opção **FERRAMENTAS DE DESENVOLVIMENTO** no menu a direita, por fim clique em pronto.
-8. Agora, na Seção **CONFIGURAÇÕES DO USUARIO**, selecione a opção **SENHA ROOT**, e coloque uma senha, depois clique em PRONTO
-9. Depois de atualizar todas essas informações pode dar inicio a instalação do Software, no botão **INICIAR A INSTALAÇÃO** e aguarde a instalação ser feita.
-10. Quando finalizado a instalção clique em **REINICIAR O SISTEMA**
+9. Agora, na Seção **CONFIGURAÇÕES DO USUARIO**, selecione a opção **SENHA ROOT**, e coloque uma senha, depois clique em PRONTO
+10. Depois de atualizar todas essas informações pode dar inicio a instalação do Software, no botão **INICIAR A INSTALAÇÃO** e aguarde a instalação ser feita.
+11. Quando finalizado a instalção clique em **REINICIAR O SISTEMA**
+
+![VirtualBox8](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/d86e8ded-2281-40ed-a37b-8f5a6e2c6db2)
 
 ### Finalizando instalação
 - Para Finalizar dê aceite no contrato de licença.
-- E por fim clique em FINISH CONFIGURATION
+- E por fim clique em **FINISH CONFIGURATION**
+
+![VirtualBox9](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/680cf450-eaaa-43cf-bc32-ab0ba5f31d10)
