@@ -23,14 +23,20 @@
 3. Na Opção Imagem ISO, selecione a o arquivo ISO que baixou no Passo 1
 4. Por último clique em Próximo
 
+![VirtualBox1](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/4147de08-3db1-4f35-8508-90b26f37cb30)
+
 ### Configuração de Instalação VM:
 1. Logo depois que clicar em **Próximo** no último item do Passo 2
 2. Coloque um nome de **usuário** e **senha**
 3. Na opção **NOME DO SERVIDOR**, coloque um nome simples sem espaços só para identificar o seu servidor, e clique em **Próximo**.
 
-### Selecionando Hardwar
+![VirtualBox2](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/7141da90-635a-49ef-9a1e-78005c88de92)
+
+### Selecionando Hardware
 1. São recomendados para processamento **4GB** de RAM, selecione **4096MB** que equivalem a 4GB.
 2. Clique **PRÓXIMO**
+
+![VirtualBox3](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/d34b93ac-2e38-49b4-8c7a-e076dc4cb3bc)
 
 ### Disco rigido
 Deixe selecionado a opção **CRIAR UM NOVO DISCO RÍGIDO VIRTUAL AGORA**
@@ -38,16 +44,22 @@ No item **TAMANHO DO DISCO**, Selecione no mínimo **12GB**
 Clique em **PRÓXIMO**.
 E **FINALIZAR**
 
+![VirtualBox4](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/5471f4bc-3ac8-48d0-a821-8909672c3b03)
+
 ## Adicionando o Linux na máquina virtual (Passo 3):
 
 1. Selecione a opção **CONFIGURAÇÕES** na barra superior a direita, isso vai abrir um menu de opções.
 2. Selecione a opção **ARMAZENAMENTO**, clique no espaço vazio abaixo de **Controladora:IDE**
 3. Clique no icone de CD, no item **DRIVE OPTICO**, e selecione a Imagem ISO que baixou, no meu caso está salvo como "OracleLinux-R8-U8-X86_64-dvd.iso", em seguida clique em **OK**.
 
+![VirtualBox5](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/d97ae85b-1500-4731-9da0-560e9ebbcc6a)
+
 ### Instalando o Linux na VM
 1. No canto superior a direita, clique em **INICIAR**, isso vai fazer com que inicie a VM e comece a instalação do Linux.
 2. Pressione **Enter**
 3. Aguarde finalizar a instalação.
+
+![VirtualBox6](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/992abdf5-0c0c-4d5d-bd67-86dee30055bd)
 
 ### Configurando
 1. Selecione o Idioma e **CONTINUAR**
