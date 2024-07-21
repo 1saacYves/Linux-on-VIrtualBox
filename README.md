@@ -61,10 +61,6 @@ E **FINALIZAR**
 10. Depois de atualizar todas essas informações pode dar inicio a instalação do Software, no botão **INICIAR A INSTALAÇÃO** e aguarde a instalação ser feita.
 11. Quando finalizado a instalção clique em **REINICIAR O SISTEMA**
 
-![VirtualBox8](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/d86e8ded-2281-40ed-a37b-8f5a6e2c6db2)
-
 ### Finalizando instalação
 - Para Finalizar dê aceite no contrato de licença.
 - E por fim clique em **FINISH CONFIGURATION**
-
-![VirtualBox9](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/680cf450-eaaa-43cf-bc32-ab0ba5f31d10)
